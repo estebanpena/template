@@ -1,3 +1,3 @@
 # Stockpile of Templates
-  Each folder is a template
+Each folder is a template
   
